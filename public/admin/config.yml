@@ -2,9 +2,9 @@ backend:
   name: github
   repo: efeitodigitalcontato-ops/afiliados-blog-guia-de-sobrevivncia-e-dicas-em-vida-em-motorhome
   branch: main
-  site_domain: afiliados-blog-guia-de-sobrevivncia-e-dicas-em-vida-em-motorhome.vercel.app
+  site_domain: afiliados-blog-guia-de-sobrevivncia-e-dicas-em-vid-geradorninja.vercel.app
   # Usamos a API própria e segura que criamos para o seu domínio na Vercel
-  base_url: https://inteligenciajovem.com.br
+  base_url: https://afiliados-blog-guia-de-sobrevivncia-e-dicas-em-vid-geradorninja.vercel.app
   auth_endpoint: api/auth
 
 # Permite rodar o CMS localmente com 'npx decap-cms-proxy-server'
