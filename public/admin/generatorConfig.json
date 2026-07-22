@@ -1,0 +1,31 @@
+{
+  "theme": "guia de sobrevivência e dicas em vida em motorhome",
+  "categories": [
+    {
+      "value": "guia-de-sobreviv-ncia-e-dicas-em-vida-em-motorhome",
+      "label": "Guia de sobrevivência e dicas em vida em motorhome"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Guia de sobrevivência e dicas em vida em motorhome"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-guia-de-sobreviv-ncia-e-dicas-em-vida-em-motorhome-1.jpg",
+      "label": "Guia de sobrevivência e dicas em vida em motorhome Premium"
+    },
+    {
+      "value": "/recommended-guia-de-sobreviv-ncia-e-dicas-em-vida-em-motorhome-2.jpg",
+      "label": "Guia de sobrevivência e dicas em vida em motorhome Custo-Benefício"
+    },
+    {
+      "value": "/recommended-guia-de-sobreviv-ncia-e-dicas-em-vida-em-motorhome-3.jpg",
+      "label": "Melhores Guia de sobrevivência e dicas em vida em motorhome"
+    }
+  ]
+}
